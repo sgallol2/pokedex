@@ -1,5 +1,5 @@
 const pokeneas = [
-    {   
+    {
         id: 1,
         nombre: "Hot Icer",
         altura: 0.8,
@@ -52,7 +52,7 @@ const pokeneas = [
         nombre: "Doña Gloria",
         altura: 1.5,
         habilidad: "Montar en metro cable",
-        imagen: "https://storage.googleapis.com/mi-pokenea-bucket/doñagloria.jpg",
+        imagen: "https://storage.googleapis.com/mi-pokenea-bucket/donagloria.jpg",
         frase: "VOS POR QUÉ NO ME DEJASTE EN LA CASA Hi#¡$a."
     },
 ];
